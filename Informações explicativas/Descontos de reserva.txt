@@ -1,0 +1,10 @@
+Aqueles que escolherem um plano de reserva precisam pagar 30% do preço total do pedido primeiro, e depois pagar os restantes 70% do preço total no momento da entrega.
+Plano de desconto de reserva:
+5-8 dias de antecedência: 10% de desconto sobre o preço de cada conjunto de software
+8-11 dias de antecedência: 13% de desconto no preço de cada conjunto de software
+Reserva antecipada 11-14 dias: 16% de desconto no preço por conjunto de software
+14 ~ 17 dias de antecedência reserva: 20% de desconto sobre o preço de cada conjunto de software
+Reserve com 17-20 dias de antecedência: 25% de desconto no preço de cada conjunto de software
+20 ~ 25 dias de antecedência reserva: 30% de desconto sobre o preço de cada conjunto de software
+Reserva com mais de 25 dias de antecedência: 40% de desconto no preço de cada conjunto de software
+Nota: As datas de pré-reserva inferiores a 5 dias não são consideradas reservas.

@@ -1,0 +1,30 @@
+Um conjunto refere-se a um conjunto de informações da máquina, e cada conjunto de software corresponde apenas a um conjunto de informações da máquina. Se 3 a 10 conjuntos forem comprados de uma só vez, cada conjunto será calculado em 80% do preço original,
+Se mais de 10 conjuntos forem comprados ao mesmo tempo, cada conjunto será calculado em 50% do preço original.
+O preço deste produto está ancorado ao preço do ouro na China. Quando liquidado em RMB, o preço de fechamento do ouro na Bolsa de Ouro de Xangai da China no dia anterior à submissão da ordem de negociação será usado como o preço correspondente do ouro para a ordem de negociação.
+
+
+Período de um ano：
+Visual Studio 2017(v141) x86 Release：1 grama de ouro por conjunto
+Visual Studio 2017(v141) x64 Release：1 grama de ouro por conjunto
+Visual Studio 2019(v142) x86 Release：1 grama de ouro por conjunto
+Visual Studio 2019(v142) x64 Release：1 grama de ouro por conjunto
+Visual Studio 2022(v143) x86 Release：1 grama de ouro por conjunto
+Visual Studio 2022(v143) x64 Release：1 grama de ouro por conjunto
+
+
+Prazo de três anos：
+Visual Studio 2017(v141) x86 Release：2.5 grama de ouro por conjunto
+Visual Studio 2017(v141) x64 Release：2.5 grama de ouro por conjunto
+Visual Studio 2019(v142) x86 Release：2.5 grama de ouro por conjunto
+Visual Studio 2019(v142) x64 Release：2.5 grama de ouro por conjunto
+Visual Studio 2022(v143) x86 Release：2.5 grama de ouro por conjunto
+Visual Studio 2022(v143) x64 Release：2.5 grama de ouro por conjunto
+
+
+Período de dez anos：
+Visual Studio 2017(v141) x86 Release：6 grama de ouro por conjunto
+Visual Studio 2017(v141) x64 Release：6 grama de ouro por conjunto
+Visual Studio 2019(v142) x86 Release：6 grama de ouro por conjunto
+Visual Studio 2019(v142) x64 Release：6 grama de ouro por conjunto
+Visual Studio 2022(v143) x86 Release：6 grama de ouro por conjunto
+Visual Studio 2022(v143) x64 Release：6 grama de ouro por conjunto

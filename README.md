@@ -9,3 +9,5 @@ Entre em contato com os seguintes grupos QQ:
 924013995
 
 423812702
+
+Devido à minha falta de conhecimento, é inevitável citar alguns códigos de trabalho de outros autores. Devido ao grande número de outros autores citados e a dificuldade em contatá-los, gostaria de expressar meu agradecimento especial unificado a todos os autores citados! Se você é um dos autores citados e tem alguma objeção, por favor, sinta-se livre para entrar em contato comigo a qualquer momento para excluir o código relevante.

@@ -4,27 +4,27 @@ O preço deste produto está ancorado ao preço do ouro na China. Quando liquida
 
 
 Período de um ano：
-Visual Studio 2017(v141) x86 Release：1 grama de ouro por conjunto
-Visual Studio 2017(v141) x64 Release：1 grama de ouro por conjunto
-Visual Studio 2019(v142) x86 Release：1 grama de ouro por conjunto
-Visual Studio 2019(v142) x64 Release：1 grama de ouro por conjunto
-Visual Studio 2022(v143) x86 Release：1 grama de ouro por conjunto
-Visual Studio 2022(v143) x64 Release：1 grama de ouro por conjunto
+Visual Studio 2017(v141) x86 Release：0.5 grama de ouro por conjunto
+Visual Studio 2017(v141) x64 Release：0.5 grama de ouro por conjunto
+Visual Studio 2019(v142) x86 Release：0.5 grama de ouro por conjunto
+Visual Studio 2019(v142) x64 Release：0.5 grama de ouro por conjunto
+Visual Studio 2022(v143) x86 Release：0.5 grama de ouro por conjunto
+Visual Studio 2022(v143) x64 Release：0.5 grama de ouro por conjunto
 
 
 Prazo de três anos：
-Visual Studio 2017(v141) x86 Release：2.5 grama de ouro por conjunto
-Visual Studio 2017(v141) x64 Release：2.5 grama de ouro por conjunto
-Visual Studio 2019(v142) x86 Release：2.5 grama de ouro por conjunto
-Visual Studio 2019(v142) x64 Release：2.5 grama de ouro por conjunto
-Visual Studio 2022(v143) x86 Release：2.5 grama de ouro por conjunto
-Visual Studio 2022(v143) x64 Release：2.5 grama de ouro por conjunto
+Visual Studio 2017(v141) x86 Release：1.2 grama de ouro por conjunto
+Visual Studio 2017(v141) x64 Release：1.2 grama de ouro por conjunto
+Visual Studio 2019(v142) x86 Release：1.2 grama de ouro por conjunto
+Visual Studio 2019(v142) x64 Release：1.2 grama de ouro por conjunto
+Visual Studio 2022(v143) x86 Release：1.2 grama de ouro por conjunto
+Visual Studio 2022(v143) x64 Release：1.2 grama de ouro por conjunto
 
 
 Período de dez anos：
-Visual Studio 2017(v141) x86 Release：6 grama de ouro por conjunto
-Visual Studio 2017(v141) x64 Release：6 grama de ouro por conjunto
-Visual Studio 2019(v142) x86 Release：6 grama de ouro por conjunto
-Visual Studio 2019(v142) x64 Release：6 grama de ouro por conjunto
-Visual Studio 2022(v143) x86 Release：6 grama de ouro por conjunto
-Visual Studio 2022(v143) x64 Release：6 grama de ouro por conjunto
+Visual Studio 2017(v141) x86 Release：3.5 grama de ouro por conjunto
+Visual Studio 2017(v141) x64 Release：3.5 grama de ouro por conjunto
+Visual Studio 2019(v142) x86 Release：3.5 grama de ouro por conjunto
+Visual Studio 2019(v142) x64 Release：3.5 grama de ouro por conjunto
+Visual Studio 2022(v143) x86 Release：3.5 grama de ouro por conjunto
+Visual Studio 2022(v143) x64 Release：3.5 grama de ouro por conjunto
